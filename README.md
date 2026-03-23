@@ -1,4 +1,4 @@
-# Utilizing modern DL techniques in Mass Spectrometry Bacterial Classifiers
+# Utilizing modern DL Techniques in Mass Spectrometry Bacterial Classifiers
 
 ## Project overview
 This project consists of multiple deep-learning frameworks (feed-forward neural network, convolutional neural network, and attention-based neural network) applied to MALDI-TOF mass spectrometry data from samples containing 20 different bacterial species. The models were evaluated for maximal cross-validation accuracy in classifying the bacterial species from the data, and an optimal framework is recommended based on the results.
