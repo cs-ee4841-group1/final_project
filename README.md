@@ -7,6 +7,7 @@ This project consists of multiple deep-learning frameworks (feed-forward neural 
 - "Code.ipynb" is the notebook file that the contains the model construction, training, and evaluation.
 - "data" directory contains the four csv files storing the project data
 - "figures" directory contains the png files with the figures generated in the notebook
+- The Final Project checkpoint can be found under CS5841_FP_Checkpoint.pdf
 
 ## Instructions to run the notebook
 - Maintain the same relative paths between the notebook, data directory, and figures directory as in the github repository
